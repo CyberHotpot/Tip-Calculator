@@ -1,4 +1,4 @@
-# Pre-work - *TipCy*
+# *TipCy*
 
 **TipCy** is a tip calculator application for iOS.
 
